@@ -1,1 +1,1 @@
-# Quibsole
+Introducing the Hangman web app project! Experience the classic game entirely through web technologies—HTML, CSS, and JavaScript. Players receive a word and a hint, then select letters to reveal the hidden word. Enjoy visual feedback for correct and incorrect guesses, alongside an intuitive interface and responsive design for all devices. With added sound effects, the Hangman web app promises hours of interactive entertainment and educational value for players of all ages.
